@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="CurrentInvoicePayments_Full_Reoprt" targetNamespace="http://tempuri.org/CurrentInvoicePayments_Full_Reoprt.xsd" xmlns:mstns="http://tempuri.org/CurrentInvoicePayments_Full_Reoprt.xsd" xmlns="http://tempuri.org/CurrentInvoicePayments_Full_Reoprt.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="CurrentInvoicePayments_Full_Reoprt" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="CurrentInvoicePayments_Full_Reoprt" msprop:Generator_UserDSName="CurrentInvoicePayments_Full_Reoprt">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_RowClassName="DataTable1Row">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="paymentNo" msprop:Generator_ColumnVarNameInTable="columnpaymentNo" msprop:Generator_ColumnPropNameInRow="paymentNo" msprop:Generator_ColumnPropNameInTable="paymentNoColumn" msprop:Generator_UserColumnName="paymentNo" type="xs:string" minOccurs="0" />
+              <xs:element name="Ref" msprop:Generator_ColumnVarNameInTable="columnRef" msprop:Generator_ColumnPropNameInRow="Ref" msprop:Generator_ColumnPropNameInTable="RefColumn" msprop:Generator_UserColumnName="Ref" type="xs:string" minOccurs="0" />
+              <xs:element name="customerNo" msprop:Generator_ColumnVarNameInTable="columncustomerNo" msprop:Generator_ColumnPropNameInRow="customerNo" msprop:Generator_ColumnPropNameInTable="customerNoColumn" msprop:Generator_UserColumnName="customerNo" type="xs:string" minOccurs="0" />
+              <xs:element name="customerName" msprop:Generator_ColumnVarNameInTable="columncustomerName" msprop:Generator_ColumnPropNameInRow="customerName" msprop:Generator_ColumnPropNameInTable="customerNameColumn" msprop:Generator_UserColumnName="customerName" type="xs:string" minOccurs="0" />
+              <xs:element name="invoiceNo" msprop:Generator_ColumnVarNameInTable="columninvoiceNo" msprop:Generator_ColumnPropNameInRow="invoiceNo" msprop:Generator_ColumnPropNameInTable="invoiceNoColumn" msprop:Generator_UserColumnName="invoiceNo" type="xs:string" minOccurs="0" />
+              <xs:element name="invoicedate" msprop:Generator_ColumnVarNameInTable="columninvoicedate" msprop:Generator_ColumnPropNameInRow="invoicedate" msprop:Generator_ColumnPropNameInTable="invoicedateColumn" msprop:Generator_UserColumnName="invoicedate" type="xs:string" minOccurs="0" />
+              <xs:element name="invoiceAmount" msprop:Generator_ColumnVarNameInTable="columninvoiceAmount" msprop:Generator_ColumnPropNameInRow="invoiceAmount" msprop:Generator_ColumnPropNameInTable="invoiceAmountColumn" msprop:Generator_UserColumnName="invoiceAmount" type="xs:double" minOccurs="0" />
+              <xs:element name="enteredAmount" msprop:Generator_ColumnVarNameInTable="columnenteredAmount" msprop:Generator_ColumnPropNameInRow="enteredAmount" msprop:Generator_ColumnPropNameInTable="enteredAmountColumn" msprop:Generator_UserColumnName="enteredAmount" type="xs:double" minOccurs="0" />
+              <xs:element name="Balance" msprop:Generator_ColumnVarNameInTable="columnBalance" msprop:Generator_ColumnPropNameInRow="Balance" msprop:Generator_ColumnPropNameInTable="BalanceColumn" msprop:Generator_UserColumnName="Balance" type="xs:double" minOccurs="0" />
+              <xs:element name="paymentMethodTxt" msprop:Generator_ColumnVarNameInTable="columnpaymentMethodTxt" msprop:Generator_ColumnPropNameInRow="paymentMethodTxt" msprop:Generator_ColumnPropNameInTable="paymentMethodTxtColumn" msprop:Generator_UserColumnName="paymentMethodTxt" type="xs:string" minOccurs="0" />
+              <xs:element name="givendate" msprop:Generator_ColumnVarNameInTable="columngivendate" msprop:Generator_ColumnPropNameInRow="givendate" msprop:Generator_ColumnPropNameInTable="givendateColumn" msprop:Generator_UserColumnName="givendate" type="xs:string" minOccurs="0" />
+              <xs:element name="duedate" msprop:Generator_ColumnVarNameInTable="columnduedate" msprop:Generator_ColumnPropNameInRow="duedate" msprop:Generator_ColumnPropNameInTable="duedateColumn" msprop:Generator_UserColumnName="duedate" type="xs:string" minOccurs="0" />
+              <xs:element name="invoicetotal" msprop:Generator_ColumnVarNameInTable="columninvoicetotal" msprop:Generator_ColumnPropNameInRow="invoicetotal" msprop:Generator_ColumnPropNameInTable="invoicetotalColumn" msprop:Generator_UserColumnName="invoicetotal" type="xs:string" minOccurs="0" />
+              <xs:element name="paymentDate" msprop:Generator_ColumnVarNameInTable="columnpaymentDate" msprop:Generator_ColumnPropNameInRow="paymentDate" msprop:Generator_ColumnPropNameInTable="paymentDateColumn" msprop:Generator_UserColumnName="paymentDate" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

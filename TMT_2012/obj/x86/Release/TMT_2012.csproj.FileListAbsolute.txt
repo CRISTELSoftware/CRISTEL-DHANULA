@@ -1,0 +1,80 @@
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\bin\Release\TMT_2012.exe.config
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\ResolveAssemblyReference.cache
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.AddMoterCycleTyre.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.AddNewStock.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.AddPayments.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.BackUps.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.Barcode.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.BarcodeReport.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.CustomerSection.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.Invoice_report.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.managePayments.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.paymentsMenu.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.Tube.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.tube_qty.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.TyreSection.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.batary.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.Billing.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.Billing_Battery_Qty.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.Billing_Other_Qty.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.Billing_qty.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.Billing_Qty_Cycle.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.CurrentInvoicePrint.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.CustomerPayments.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.Invoice.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.battery_qty.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.DHNAULA.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.other_qty.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.Properties.Resources.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.Add_New_Customer.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.qty.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.qty_cycle.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.SearchCustomerGrid.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.Search_Customer.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.frmSettings.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\GenerateResource.read.1.tlog
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\GenerateResource.write.1.tlog
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\RdlCompile.cache
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\RdlCompile.compiled
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\bin\Release\TMT_2012.exe.config
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.AddMoterCycleTyre.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.AddNewStock.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.AddPayments.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.BackUps.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.Barcode.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.BarcodeReport.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.CustomerSection.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.Invoice_report.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.Login.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.managePayments.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.paymentsMenu.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.Payments_Full_Credit_Report.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.Payments_Full_Report.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.Payments_Report.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.Tube.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.tube_qty.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.TyreSection.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.batary.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.Billing.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.Billing_Battery_Qty.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.Billing_Other_Qty.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.Billing_qty.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.Billing_Qty_Cycle.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.CurrentInvoicePrint.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.CustomerPayments.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.Invoice.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.battery_qty.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.DHNAULA.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.other_qty.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.Properties.Resources.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.Add_New_Customer.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.qty.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.qty_cycle.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.SearchCustomerGrid.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.Search_Customer.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\TMT_2012.frmSettings.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\RdlCompile.cache
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Release\RdlCompile.compiled

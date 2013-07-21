@@ -1,0 +1,1250 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TMT_2012</name>
+    </assembly>
+    <members>
+        <member name="F:TMT_2012.Tube.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:TMT_2012.Tube.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:TMT_2012.Tube.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:TMT_2012.CustomerSection.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:TMT_2012.CustomerSection.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:TMT_2012.CustomerSection.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.CurrentInvoice">
+             <summary>
+            Represents a strongly typed in-memory cache of data.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.CurrentInvoice.DataTable1DataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.CurrentInvoice.DataTable1Row">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.CurrentInvoice.DataTable1RowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="F:TMT_2012.BarcodeReport.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:TMT_2012.BarcodeReport.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:TMT_2012.BarcodeReport.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:TMT_2012.SearchCustomerGrid.clearGrid">
+            <summary>
+            to clear the grdSearchCustomer
+            ds_add_customer_tyre set to null
+            </summary>
+        </member>
+        <member name="F:TMT_2012.SearchCustomerGrid.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:TMT_2012.SearchCustomerGrid.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:TMT_2012.SearchCustomerGrid.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:TMT_2012.Invoice.radGridView1_CellClick(System.Object,Telerik.WinControls.UI.GridViewCellEventArgs)">
+            <summary>
+            ////////////////////////////////////
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:TMT_2012.Invoice.showText(System.Int32)">
+            //////////////////////////////////////////
+        </member>
+        <member name="M:TMT_2012.Invoice.invoiceItemsAdd">
+            <summary>
+            ///////////////////////////////////////////////////////////////////////////////////////
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:TMT_2012.Invoice.radButton7_Click(System.Object,System.EventArgs)">
+            <summary>
+            ///////////////////////////////////////////////////////////////////////
+            Other Search
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="F:TMT_2012.Invoice.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:TMT_2012.Invoice.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:TMT_2012.Invoice.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:TMT_2012.TyreSection.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:TMT_2012.TyreSection.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:TMT_2012.TyreSection.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.BarcodeDataSet">
+             <summary>
+            Represents a strongly typed in-memory cache of data.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.BarcodeDataSet.DataTable1DataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.BarcodeDataSet.DataTable1Row">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.BarcodeDataSet.DataTable1RowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="F:TMT_2012.qty_cycle.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:TMT_2012.qty_cycle.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:TMT_2012.qty_cycle.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:TMT_2012.other_qty.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:TMT_2012.other_qty.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:TMT_2012.other_qty.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:TMT_2012.other_catagory_data.newPrice">
+            //////////////////////////////////////////////////
+        </member>
+        <member name="M:TMT_2012.other_catagory_data.get_catagory_id">
+            <summary>
+            ////////////////////////////////////////////////////
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="F:TMT_2012.Billing_Qty_Cycle.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:TMT_2012.Billing_Qty_Cycle.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:TMT_2012.Billing_Qty_Cycle.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:TMT_2012.AddMoterCycleTyre.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:TMT_2012.AddMoterCycleTyre.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:TMT_2012.AddMoterCycleTyre.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet">
+             <summary>
+            Represents a strongly typed in-memory cache of data.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet.billlinesDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet.cashDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet.cashchequeDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet.chequeDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet.companybillsDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet.creditcardDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet.customerDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet.dagDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet.dated_chequeDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet.invoiceDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet.invoicelinesDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet.invoicepaymentDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet.itemsDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet.normalinvoiceDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet.oncashDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet.oncreditDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet.paymentsDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet.pricelistDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet.vehiclesDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet.billlinesRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet.cashRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet.cashchequeRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet.chequeRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet.companybillsRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet.creditcardRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet.customerRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet.dagRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet.dated_chequeRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet.invoiceRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet.invoicelinesRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet.invoicepaymentRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet.itemsRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet.normalinvoiceRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet.oncashRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet.oncreditRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet.paymentsRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet.pricelistRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet.vehiclesRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet.billlinesRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet.cashRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet.cashchequeRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet.chequeRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet.companybillsRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet.creditcardRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet.customerRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet.dagRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet.dated_chequeRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet.invoiceRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet.invoicelinesRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet.invoicepaymentRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet.itemsRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet.normalinvoiceRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet.oncashRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet.oncreditRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet.paymentsRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet.pricelistRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet.vehiclesRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSetTableAdapters.billlinesTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSetTableAdapters.cashTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSetTableAdapters.cashchequeTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSetTableAdapters.chequeTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSetTableAdapters.companybillsTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSetTableAdapters.creditcardTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSetTableAdapters.customerTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSetTableAdapters.dagTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSetTableAdapters.dated_chequeTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSetTableAdapters.invoiceTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSetTableAdapters.invoicelinesTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSetTableAdapters.invoicepaymentTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSetTableAdapters.itemsTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSetTableAdapters.normalinvoiceTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSetTableAdapters.oncashTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSetTableAdapters.oncreditTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSetTableAdapters.paymentsTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSetTableAdapters.pricelistTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSetTableAdapters.vehiclesTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSetTableAdapters.TableAdapterManager">
+             <summary>
+            TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+            </summary>
+        </member>
+        <member name="M:TMT_2012.accountingsystemDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(TMT_2012.accountingsystemDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+             <summary>
+            Update rows in top-down order.
+            </summary>
+        </member>
+        <member name="M:TMT_2012.accountingsystemDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(TMT_2012.accountingsystemDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+             <summary>
+            Insert rows in top-down order.
+            </summary>
+        </member>
+        <member name="M:TMT_2012.accountingsystemDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(TMT_2012.accountingsystemDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+             <summary>
+            Delete rows in bottom-up order.
+            </summary>
+        </member>
+        <member name="M:TMT_2012.accountingsystemDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+             <summary>
+            Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+            </summary>
+        </member>
+        <member name="M:TMT_2012.accountingsystemDataSetTableAdapters.TableAdapterManager.UpdateAll(TMT_2012.accountingsystemDataSet)">
+             <summary>
+            Update all changes to the dataset.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+             <summary>
+            Update Order Option
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+             <summary>
+            Used to sort self-referenced table's rows
+            </summary>
+        </member>
+        <member name="F:TMT_2012.Billing_Battery_Qty.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:TMT_2012.Billing_Battery_Qty.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:TMT_2012.Billing_Battery_Qty.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:TMT_2012.Search_Customer.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:TMT_2012.Search_Customer.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:TMT_2012.Search_Customer.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:TMT_2012.qty.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:TMT_2012.qty.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:TMT_2012.qty.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:TMT_2012.DHNAULA.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:TMT_2012.DHNAULA.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:TMT_2012.DHNAULA.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:TMT_2012.battery_qty.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:TMT_2012.battery_qty.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:TMT_2012.battery_qty.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:TMT_2012.Billing.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:TMT_2012.Billing.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:TMT_2012.Billing.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:TMT_2012.Billing.radGridView1_CellClick(System.Object,Telerik.WinControls.UI.GridViewCellEventArgs)">
+            <summary>
+            ////////////////////////////////////
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:TMT_2012.Billing.radButton7_Click(System.Object,System.EventArgs)">
+            <summary>
+            ///////////////////////////////////////////////////////////////////////
+            Other Search
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:TMT_2012.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="F:TMT_2012.CustomerPayments.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:TMT_2012.CustomerPayments.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:TMT_2012.CustomerPayments.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:TMT_2012.Billing_Other_Qty.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:TMT_2012.Billing_Other_Qty.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:TMT_2012.Billing_Other_Qty.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:TMT_2012.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:TMT_2012.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="F:TMT_2012.managePayments.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:TMT_2012.managePayments.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:TMT_2012.managePayments.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:TMT_2012.AddNewStock.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:TMT_2012.AddNewStock.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:TMT_2012.AddNewStock.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:TMT_2012.tube_qty.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:TMT_2012.tube_qty.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:TMT_2012.tube_qty.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:TMT_2012.paymentsMenu.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:TMT_2012.paymentsMenu.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:TMT_2012.paymentsMenu.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:TMT_2012.Barcode.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:TMT_2012.Barcode.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:TMT_2012.Barcode.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:TMT_2012.CurrentInvoicePrint.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:TMT_2012.CurrentInvoicePrint.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:TMT_2012.CurrentInvoicePrint.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:TMT_2012.Billing_qty.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:TMT_2012.Billing_qty.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:TMT_2012.Billing_qty.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet_invoice_report">
+             <summary>
+            Represents a strongly typed in-memory cache of data.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet_invoice_report.temp_invoice_printDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet_invoice_report.temp_invoice_printRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet_invoice_report.temp_invoice_printRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet_invoice_reportTableAdapters.temp_invoice_printTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet_invoice_reportTableAdapters.TableAdapterManager">
+             <summary>
+            TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+            </summary>
+        </member>
+        <member name="M:TMT_2012.accountingsystemDataSet_invoice_reportTableAdapters.TableAdapterManager.UpdateUpdatedRows(TMT_2012.accountingsystemDataSet_invoice_report,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+             <summary>
+            Update rows in top-down order.
+            </summary>
+        </member>
+        <member name="M:TMT_2012.accountingsystemDataSet_invoice_reportTableAdapters.TableAdapterManager.UpdateInsertedRows(TMT_2012.accountingsystemDataSet_invoice_report,System.Collections.Generic.List{System.Data.DataRow})">
+             <summary>
+            Insert rows in top-down order.
+            </summary>
+        </member>
+        <member name="M:TMT_2012.accountingsystemDataSet_invoice_reportTableAdapters.TableAdapterManager.UpdateDeletedRows(TMT_2012.accountingsystemDataSet_invoice_report,System.Collections.Generic.List{System.Data.DataRow})">
+             <summary>
+            Delete rows in bottom-up order.
+            </summary>
+        </member>
+        <member name="M:TMT_2012.accountingsystemDataSet_invoice_reportTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+             <summary>
+            Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+            </summary>
+        </member>
+        <member name="M:TMT_2012.accountingsystemDataSet_invoice_reportTableAdapters.TableAdapterManager.UpdateAll(TMT_2012.accountingsystemDataSet_invoice_report)">
+             <summary>
+            Update all changes to the dataset.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet_invoice_reportTableAdapters.TableAdapterManager.UpdateOrderOption">
+             <summary>
+            Update Order Option
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet_invoice_reportTableAdapters.TableAdapterManager.SelfReferenceComparer">
+             <summary>
+            Used to sort self-referenced table's rows
+            </summary>
+        </member>
+        <member name="F:TMT_2012.vehical_category_data.newPrice">
+            //////////////////////////////////////////////////
+        </member>
+        <member name="M:TMT_2012.vehical_category_data.get_catagory_id">
+            <summary>
+            ////////////////////////////////////////////////////
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="F:TMT_2012.frmSettings.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:TMT_2012.frmSettings.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:TMT_2012.frmSettings.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:TMT_2012.Add_New_Customer.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:TMT_2012.Add_New_Customer.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:TMT_2012.Add_New_Customer.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:TMT_2012.BackUps.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:TMT_2012.BackUps.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:TMT_2012.BackUps.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:TMT_2012.Billing_Other_Catagory_Data.newPrice">
+            //////////////////////////////////////////////////
+        </member>
+        <member name="M:TMT_2012.Billing_Other_Catagory_Data.get_catagory_id">
+            <summary>
+            ////////////////////////////////////////////////////
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="F:TMT_2012.batary.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:TMT_2012.batary.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:TMT_2012.batary.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:TMT_2012.Invoice_report.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:TMT_2012.Invoice_report.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:TMT_2012.Invoice_report.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet1">
+             <summary>
+            Represents a strongly typed in-memory cache of data.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet1.DataTable1DataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet1.DataTable1Row">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet1.DataTable1RowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet_currentInvoice">
+             <summary>
+            Represents a strongly typed in-memory cache of data.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet_currentInvoice.temp_invoice_printDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet_currentInvoice.temp_invoice_printRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet_currentInvoice.temp_invoice_printRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet_currentInvoiceTableAdapters.temp_invoice_printTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet_currentInvoiceTableAdapters.TableAdapterManager">
+             <summary>
+            TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+            </summary>
+        </member>
+        <member name="M:TMT_2012.accountingsystemDataSet_currentInvoiceTableAdapters.TableAdapterManager.UpdateUpdatedRows(TMT_2012.accountingsystemDataSet_currentInvoice,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+             <summary>
+            Update rows in top-down order.
+            </summary>
+        </member>
+        <member name="M:TMT_2012.accountingsystemDataSet_currentInvoiceTableAdapters.TableAdapterManager.UpdateInsertedRows(TMT_2012.accountingsystemDataSet_currentInvoice,System.Collections.Generic.List{System.Data.DataRow})">
+             <summary>
+            Insert rows in top-down order.
+            </summary>
+        </member>
+        <member name="M:TMT_2012.accountingsystemDataSet_currentInvoiceTableAdapters.TableAdapterManager.UpdateDeletedRows(TMT_2012.accountingsystemDataSet_currentInvoice,System.Collections.Generic.List{System.Data.DataRow})">
+             <summary>
+            Delete rows in bottom-up order.
+            </summary>
+        </member>
+        <member name="M:TMT_2012.accountingsystemDataSet_currentInvoiceTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+             <summary>
+            Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+            </summary>
+        </member>
+        <member name="M:TMT_2012.accountingsystemDataSet_currentInvoiceTableAdapters.TableAdapterManager.UpdateAll(TMT_2012.accountingsystemDataSet_currentInvoice)">
+             <summary>
+            Update all changes to the dataset.
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet_currentInvoiceTableAdapters.TableAdapterManager.UpdateOrderOption">
+             <summary>
+            Update Order Option
+            </summary>
+        </member>
+        <member name="T:TMT_2012.accountingsystemDataSet_currentInvoiceTableAdapters.TableAdapterManager.SelfReferenceComparer">
+             <summary>
+            Used to sort self-referenced table's rows
+            </summary>
+        </member>
+        <member name="F:TMT_2012.AddPayments.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:TMT_2012.AddPayments.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:TMT_2012.AddPayments.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:TMT_2012.AddPayments.#ctor(System.String,System.String)">
+            <summary>
+            constructor to fill the data
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+    </members>
+</doc>

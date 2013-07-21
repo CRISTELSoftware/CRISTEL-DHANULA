@@ -1,0 +1,1028 @@
+C:\Users\praveen\Documents\Visual Studio 2010\Projects\TMT_2012\TMT_2012\bin\Debug\TMT_2012.exe
+C:\Users\praveen\Documents\Visual Studio 2010\Projects\TMT_2012\TMT_2012\bin\Debug\TMT_2012.pdb
+C:\Users\praveen\Documents\Visual Studio 2010\Projects\TMT_2012\TMT_2012\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\praveen\Documents\Visual Studio 2010\Projects\TMT_2012\TMT_2012\obj\x86\Debug\TMT_2012.Properties.Resources.resources
+C:\Users\praveen\Documents\Visual Studio 2010\Projects\TMT_2012\TMT_2012\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\praveen\Documents\Visual Studio 2010\Projects\TMT_2012\TMT_2012\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\praveen\Documents\Visual Studio 2010\Projects\TMT_2012\TMT_2012\obj\x86\Debug\TMT_2012.exe
+C:\Users\praveen\Documents\Visual Studio 2010\Projects\TMT_2012\TMT_2012\obj\x86\Debug\TMT_2012.pdb
+C:\Users\praveen\Documents\Visual Studio 2010\Projects\TMT_2012\TMT_2012\bin\Debug\middle_access.dll
+C:\Users\praveen\Documents\Visual Studio 2010\Projects\TMT_2012\TMT_2012\bin\Debug\data.dll
+C:\Users\praveen\Documents\Visual Studio 2010\Projects\TMT_2012\TMT_2012\bin\Debug\middle_access.pdb
+C:\Users\praveen\Documents\Visual Studio 2010\Projects\TMT_2012\TMT_2012\bin\Debug\data.pdb
+C:\Users\praveen\Documents\Visual Studio 2010\Projects\TMT_2012\TMT_2012\obj\x86\Debug\TMT_2012.Form1.resources
+C:\Users\Buddhika\Desktop\TMT_2012\TMT_2012\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Buddhika\Desktop\TMT_2012\TMT_2012\obj\x86\Debug\TMT_2012.MDIParent1.resources
+C:\Users\Buddhika\Desktop\TMT_2012\TMT_2012\obj\x86\Debug\TMT_2012.Properties.Resources.resources
+C:\Users\Buddhika\Desktop\TMT_2012\TMT_2012\obj\x86\Debug\TMT_2012.Add_New_Customer.resources
+C:\Users\Buddhika\Desktop\TMT_2012\TMT_2012\obj\x86\Debug\TMT_2012.Search_Customer.resources
+C:\Users\Buddhika\Desktop\TMT_2012\TMT_2012\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Buddhika\Desktop\TMT_2012\TMT_2012\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Buddhika\Desktop\TMT_2012\TMT_2012\bin\Debug\TMT_2012.exe.config
+C:\Users\Buddhika\Desktop\TMT_2012\TMT_2012\bin\Debug\TMT_2012.exe
+C:\Users\Buddhika\Desktop\TMT_2012\TMT_2012\bin\Debug\TMT_2012.pdb
+C:\Users\Buddhika\Desktop\TMT_2012\TMT_2012\bin\Debug\middle_access.dll
+C:\Users\Buddhika\Desktop\TMT_2012\TMT_2012\bin\Debug\data.dll
+C:\Users\Buddhika\Desktop\TMT_2012\TMT_2012\bin\Debug\middle_access.pdb
+C:\Users\Buddhika\Desktop\TMT_2012\TMT_2012\bin\Debug\data.pdb
+C:\Users\Buddhika\Desktop\TMT_2012\TMT_2012\obj\x86\Debug\TMT_2012.exe
+C:\Users\Buddhika\Desktop\TMT_2012\TMT_2012\obj\x86\Debug\TMT_2012.pdb
+H:\New folder\TMT_2012\TMT_2012\bin\Debug\TMT_2012.exe.config
+H:\New folder\TMT_2012\TMT_2012\obj\x86\Debug\TMT_2012.exe
+H:\New folder\TMT_2012\TMT_2012\obj\x86\Debug\TMT_2012.pdb
+H:\New folder\TMT_2012\TMT_2012\bin\Debug\TMT_2012.exe
+H:\New folder\TMT_2012\TMT_2012\bin\Debug\TMT_2012.pdb
+H:\New folder\TMT_2012\TMT_2012\bin\Debug\middle_access.dll
+H:\New folder\TMT_2012\TMT_2012\bin\Debug\data.dll
+H:\New folder\TMT_2012\TMT_2012\bin\Debug\middle_access.pdb
+H:\New folder\TMT_2012\TMT_2012\bin\Debug\data.pdb
+H:\New folder\TMT_2012\TMT_2012\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\New folder\TMT_2012\TMT_2012\obj\x86\Debug\TMT_2012.MDIParent1.resources
+H:\New folder\TMT_2012\TMT_2012\obj\x86\Debug\TMT_2012.Properties.Resources.resources
+H:\New folder\TMT_2012\TMT_2012\obj\x86\Debug\TMT_2012.Add_New_Customer.resources
+H:\New folder\TMT_2012\TMT_2012\obj\x86\Debug\TMT_2012.Search_Customer.resources
+H:\New folder\TMT_2012\TMT_2012\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\New folder\TMT_2012\TMT_2012\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\New folder\TMT_2012\TMT_2012\obj\x86\Debug\TMT_2012.Invoce.resources
+H:\New folder\TMT_2012\TMT_2012\obj\x86\Debug\TMT_2012.AdvancedSearch.resources
+H:\New folder\TMT_2012\TMT_2012\obj\x86\Debug\TMT_2012.qty.resources
+H:\New folder\TMT_2012\TMT_2012\obj\x86\Debug\TMT_2012.qty_cycle.resources
+C:\Users\Boddi\Desktop\CRISTEL\TMT_2012\TMT_2012\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Boddi\Desktop\CRISTEL\TMT_2012\TMT_2012\obj\x86\Debug\TMT_2012.AdvancedSearch.resources
+C:\Users\Boddi\Desktop\CRISTEL\TMT_2012\TMT_2012\obj\x86\Debug\TMT_2012.Invoce.resources
+C:\Users\Boddi\Desktop\CRISTEL\TMT_2012\TMT_2012\obj\x86\Debug\TMT_2012.MDIParent1.resources
+C:\Users\Boddi\Desktop\CRISTEL\TMT_2012\TMT_2012\obj\x86\Debug\TMT_2012.Properties.Resources.resources
+C:\Users\Boddi\Desktop\CRISTEL\TMT_2012\TMT_2012\obj\x86\Debug\TMT_2012.Add_New_Customer.resources
+C:\Users\Boddi\Desktop\CRISTEL\TMT_2012\TMT_2012\obj\x86\Debug\TMT_2012.qty.resources
+C:\Users\Boddi\Desktop\CRISTEL\TMT_2012\TMT_2012\obj\x86\Debug\TMT_2012.qty_cycle.resources
+C:\Users\Boddi\Desktop\CRISTEL\TMT_2012\TMT_2012\obj\x86\Debug\TMT_2012.Search_Customer.resources
+C:\Users\Boddi\Desktop\CRISTEL\TMT_2012\TMT_2012\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Boddi\Desktop\CRISTEL\TMT_2012\TMT_2012\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Boddi\Desktop\CRISTEL\TMT_2012\TMT_2012\obj\x86\Debug\TMT_2012.Biling.resources
+C:\Users\Boddi\Desktop\CRISTEL\TMT_2012\TMT_2012\bin\Debug\TMT_2012.exe.config
+C:\Users\Boddi\Desktop\CRISTEL\TMT_2012\TMT_2012\bin\Debug\TMT_2012.exe
+C:\Users\Boddi\Desktop\CRISTEL\TMT_2012\TMT_2012\bin\Debug\TMT_2012.pdb
+C:\Users\Boddi\Desktop\CRISTEL\TMT_2012\TMT_2012\bin\Debug\middle_access.dll
+C:\Users\Boddi\Desktop\CRISTEL\TMT_2012\TMT_2012\bin\Debug\data.dll
+C:\Users\Boddi\Desktop\CRISTEL\TMT_2012\TMT_2012\bin\Debug\middle_access.pdb
+C:\Users\Boddi\Desktop\CRISTEL\TMT_2012\TMT_2012\bin\Debug\data.pdb
+C:\Users\Boddi\Desktop\CRISTEL\TMT_2012\TMT_2012\obj\x86\Debug\TMT_2012.exe
+C:\Users\Boddi\Desktop\CRISTEL\TMT_2012\TMT_2012\obj\x86\Debug\TMT_2012.pdb
+H:\New folder\BACKUPS\TMT_2012_2011-12-22\TMT_2012\bin\Debug\TMT_2012.exe.config
+H:\New folder\BACKUPS\TMT_2012_2011-12-22\TMT_2012\obj\x86\Debug\TMT_2012.exe
+H:\New folder\BACKUPS\TMT_2012_2011-12-22\TMT_2012\obj\x86\Debug\TMT_2012.pdb
+H:\New folder\BACKUPS\TMT_2012_2011-12-22\TMT_2012\bin\Debug\TMT_2012.exe
+H:\New folder\BACKUPS\TMT_2012_2011-12-22\TMT_2012\bin\Debug\TMT_2012.pdb
+H:\New folder\BACKUPS\TMT_2012_2011-12-22\TMT_2012\bin\Debug\middle_access.dll
+H:\New folder\BACKUPS\TMT_2012_2011-12-22\TMT_2012\bin\Debug\data.dll
+H:\New folder\BACKUPS\TMT_2012_2011-12-22\TMT_2012\bin\Debug\middle_access.pdb
+H:\New folder\BACKUPS\TMT_2012_2011-12-22\TMT_2012\bin\Debug\data.pdb
+H:\New folder\BACKUPS\TMT_2012_2011-12-22\TMT_2012\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\New folder\BACKUPS\TMT_2012_2011-12-22\TMT_2012\obj\x86\Debug\TMT_2012.AdvancedSearch.resources
+H:\New folder\BACKUPS\TMT_2012_2011-12-22\TMT_2012\obj\x86\Debug\TMT_2012.Invoce.resources
+H:\New folder\BACKUPS\TMT_2012_2011-12-22\TMT_2012\obj\x86\Debug\TMT_2012.MDIParent1.resources
+H:\New folder\BACKUPS\TMT_2012_2011-12-22\TMT_2012\obj\x86\Debug\TMT_2012.Properties.Resources.resources
+H:\New folder\BACKUPS\TMT_2012_2011-12-22\TMT_2012\obj\x86\Debug\TMT_2012.Add_New_Customer.resources
+H:\New folder\BACKUPS\TMT_2012_2011-12-22\TMT_2012\obj\x86\Debug\TMT_2012.qty.resources
+H:\New folder\BACKUPS\TMT_2012_2011-12-22\TMT_2012\obj\x86\Debug\TMT_2012.qty_cycle.resources
+H:\New folder\BACKUPS\TMT_2012_2011-12-22\TMT_2012\obj\x86\Debug\TMT_2012.Biling.resources
+H:\New folder\BACKUPS\TMT_2012_2011-12-22\TMT_2012\obj\x86\Debug\TMT_2012.Search_Customer.resources
+H:\New folder\BACKUPS\TMT_2012_2011-12-22\TMT_2012\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\New folder\BACKUPS\TMT_2012_2011-12-22\TMT_2012\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\TMT_2012\TMT_2012\bin\Debug\TMT_2012.exe.config
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\TMT_2012\TMT_2012\obj\x86\Debug\TMT_2012.exe
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\TMT_2012\TMT_2012\obj\x86\Debug\TMT_2012.pdb
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\TMT_2012\TMT_2012\bin\Debug\TMT_2012.exe
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\TMT_2012\TMT_2012\bin\Debug\TMT_2012.pdb
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\TMT_2012\TMT_2012\bin\Debug\middle_access.dll
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\TMT_2012\TMT_2012\bin\Debug\data.dll
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\TMT_2012\TMT_2012\bin\Debug\middle_access.pdb
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\TMT_2012\TMT_2012\bin\Debug\data.pdb
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\TMT_2012\TMT_2012\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\TMT_2012\TMT_2012\obj\x86\Debug\TMT_2012.AdvancedSearch.resources
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\TMT_2012\TMT_2012\obj\x86\Debug\TMT_2012.Invoce.resources
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\TMT_2012\TMT_2012\obj\x86\Debug\TMT_2012.MDIParent1.resources
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\TMT_2012\TMT_2012\obj\x86\Debug\TMT_2012.Properties.Resources.resources
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\TMT_2012\TMT_2012\obj\x86\Debug\TMT_2012.Add_New_Customer.resources
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\TMT_2012\TMT_2012\obj\x86\Debug\TMT_2012.qty.resources
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\TMT_2012\TMT_2012\obj\x86\Debug\TMT_2012.qty_cycle.resources
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\TMT_2012\TMT_2012\obj\x86\Debug\TMT_2012.Biling.resources
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\TMT_2012\TMT_2012\obj\x86\Debug\TMT_2012.Search_Customer.resources
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\TMT_2012\TMT_2012\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\TMT_2012\TMT_2012\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\TMT_2012\TMT_2012\obj\x86\Debug\TMT_2012.billingQty.resources
+C:\Users\Boddi\Desktop\praveen\TMT_2012\TMT_2012\bin\Debug\TMT_2012.exe.config
+C:\Users\Boddi\Desktop\praveen\TMT_2012\TMT_2012\obj\x86\Debug\TMT_2012.exe
+C:\Users\Boddi\Desktop\praveen\TMT_2012\TMT_2012\obj\x86\Debug\TMT_2012.pdb
+C:\Users\Boddi\Desktop\praveen\TMT_2012\TMT_2012\bin\Debug\TMT_2012.exe
+C:\Users\Boddi\Desktop\praveen\TMT_2012\TMT_2012\bin\Debug\TMT_2012.pdb
+C:\Users\Boddi\Desktop\praveen\TMT_2012\TMT_2012\bin\Debug\middle_access.dll
+C:\Users\Boddi\Desktop\praveen\TMT_2012\TMT_2012\bin\Debug\data.dll
+C:\Users\Boddi\Desktop\praveen\TMT_2012\TMT_2012\bin\Debug\middle_access.pdb
+C:\Users\Boddi\Desktop\praveen\TMT_2012\TMT_2012\bin\Debug\data.pdb
+C:\Users\Boddi\Desktop\praveen\TMT_2012\TMT_2012\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Boddi\Desktop\praveen\TMT_2012\TMT_2012\obj\x86\Debug\TMT_2012.AdvancedSearch.resources
+C:\Users\Boddi\Desktop\praveen\TMT_2012\TMT_2012\obj\x86\Debug\TMT_2012.billingQty.resources
+C:\Users\Boddi\Desktop\praveen\TMT_2012\TMT_2012\obj\x86\Debug\TMT_2012.Invoce.resources
+C:\Users\Boddi\Desktop\praveen\TMT_2012\TMT_2012\obj\x86\Debug\TMT_2012.MDIParent1.resources
+C:\Users\Boddi\Desktop\praveen\TMT_2012\TMT_2012\obj\x86\Debug\TMT_2012.Properties.Resources.resources
+C:\Users\Boddi\Desktop\praveen\TMT_2012\TMT_2012\obj\x86\Debug\TMT_2012.Add_New_Customer.resources
+C:\Users\Boddi\Desktop\praveen\TMT_2012\TMT_2012\obj\x86\Debug\TMT_2012.qty.resources
+C:\Users\Boddi\Desktop\praveen\TMT_2012\TMT_2012\obj\x86\Debug\TMT_2012.qty_cycle.resources
+C:\Users\Boddi\Desktop\praveen\TMT_2012\TMT_2012\obj\x86\Debug\TMT_2012.Biling.resources
+C:\Users\Boddi\Desktop\praveen\TMT_2012\TMT_2012\obj\x86\Debug\TMT_2012.Search_Customer.resources
+C:\Users\Boddi\Desktop\praveen\TMT_2012\TMT_2012\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Boddi\Desktop\praveen\TMT_2012\TMT_2012\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Boddi\Desktop\praveen\TMT_2012\TMT_2012\obj\x86\Debug\TMT_2012.battery_qty.resources
+C:\Users\Boddi\Desktop\praveen\TMT_2012\TMT_2012\obj\x86\Debug\TMT_2012.batary.resources
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\TMT_2012_2012_12_02\TMT_2012\bin\Debug\TMT_2012.exe.config
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.exe
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.pdb
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\TMT_2012_2012_12_02\TMT_2012\bin\Debug\TMT_2012.exe
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\TMT_2012_2012_12_02\TMT_2012\bin\Debug\TMT_2012.pdb
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\TMT_2012_2012_12_02\TMT_2012\bin\Debug\middle_access.dll
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\TMT_2012_2012_12_02\TMT_2012\bin\Debug\data.dll
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\TMT_2012_2012_12_02\TMT_2012\bin\Debug\middle_access.pdb
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\TMT_2012_2012_12_02\TMT_2012\bin\Debug\data.pdb
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.batary.resources
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.battery_qty.resources
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.Properties.Resources.resources
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.Add_New_Customer.resources
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.qty.resources
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.qty_cycle.resources
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.Search_Customer.resources
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.other_qty.resources
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.Invoice.resources
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.DHNAULA.resources
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.AdvancedSearch.resources
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.frmSettings.resources
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.AddNewStock.resources
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.AddMoterCycleTyre.resources
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.Billing.resources
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Battery_Qty.resources
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Other_Qty.resources
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Qty_Cycle.resources
+C:\Users\Pavithra\Desktop\TMT_2012_2012_12_02\TMT_2012\bin\Debug\TMT_2012.exe.config
+C:\Users\Pavithra\Desktop\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.exe
+C:\Users\Pavithra\Desktop\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.pdb
+C:\Users\Pavithra\Desktop\TMT_2012_2012_12_02\TMT_2012\bin\Debug\TMT_2012.exe
+C:\Users\Pavithra\Desktop\TMT_2012_2012_12_02\TMT_2012\bin\Debug\TMT_2012.pdb
+C:\Users\Pavithra\Desktop\TMT_2012_2012_12_02\TMT_2012\bin\Debug\middle_access.dll
+C:\Users\Pavithra\Desktop\TMT_2012_2012_12_02\TMT_2012\bin\Debug\data.dll
+C:\Users\Pavithra\Desktop\TMT_2012_2012_12_02\TMT_2012\bin\Debug\middle_access.pdb
+C:\Users\Pavithra\Desktop\TMT_2012_2012_12_02\TMT_2012\bin\Debug\data.pdb
+C:\Users\Pavithra\Desktop\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Pavithra\Desktop\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.AddMoterCycleTyre.resources
+C:\Users\Pavithra\Desktop\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.AddNewStock.resources
+C:\Users\Pavithra\Desktop\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.AdvancedSearch.resources
+C:\Users\Pavithra\Desktop\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.batary.resources
+C:\Users\Pavithra\Desktop\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.Billing.resources
+C:\Users\Pavithra\Desktop\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Battery_Qty.resources
+C:\Users\Pavithra\Desktop\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Other_Qty.resources
+C:\Users\Pavithra\Desktop\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Qty_Cycle.resources
+C:\Users\Pavithra\Desktop\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.Invoice.resources
+C:\Users\Pavithra\Desktop\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.battery_qty.resources
+C:\Users\Pavithra\Desktop\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.DHNAULA.resources
+C:\Users\Pavithra\Desktop\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.other_qty.resources
+C:\Users\Pavithra\Desktop\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.Properties.Resources.resources
+C:\Users\Pavithra\Desktop\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.Add_New_Customer.resources
+C:\Users\Pavithra\Desktop\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.qty.resources
+C:\Users\Pavithra\Desktop\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.qty_cycle.resources
+C:\Users\Pavithra\Desktop\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.Search_Customer.resources
+C:\Users\Pavithra\Desktop\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.frmSettings.resources
+C:\Users\Pavithra\Desktop\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Pavithra\Desktop\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Pavithra\Desktop\bbak tmt\New folder4\TMT_2012_2012_12_02\TMT_2012\bin\Debug\TMT_2012.exe.config
+C:\Users\Pavithra\Desktop\bbak tmt\New folder4\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.exe
+C:\Users\Pavithra\Desktop\bbak tmt\New folder4\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.pdb
+C:\Users\Pavithra\Desktop\bbak tmt\New folder4\TMT_2012_2012_12_02\TMT_2012\bin\Debug\TMT_2012.exe
+C:\Users\Pavithra\Desktop\bbak tmt\New folder4\TMT_2012_2012_12_02\TMT_2012\bin\Debug\TMT_2012.pdb
+C:\Users\Pavithra\Desktop\bbak tmt\New folder4\TMT_2012_2012_12_02\TMT_2012\bin\Debug\middle_access.dll
+C:\Users\Pavithra\Desktop\bbak tmt\New folder4\TMT_2012_2012_12_02\TMT_2012\bin\Debug\data.dll
+C:\Users\Pavithra\Desktop\bbak tmt\New folder4\TMT_2012_2012_12_02\TMT_2012\bin\Debug\middle_access.pdb
+C:\Users\Pavithra\Desktop\bbak tmt\New folder4\TMT_2012_2012_12_02\TMT_2012\bin\Debug\data.pdb
+C:\Users\Pavithra\Desktop\bbak tmt\New folder4\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Pavithra\Desktop\bbak tmt\New folder4\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.AddMoterCycleTyre.resources
+C:\Users\Pavithra\Desktop\bbak tmt\New folder4\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.AddNewStock.resources
+C:\Users\Pavithra\Desktop\bbak tmt\New folder4\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.AdvancedSearch.resources
+C:\Users\Pavithra\Desktop\bbak tmt\New folder4\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.batary.resources
+C:\Users\Pavithra\Desktop\bbak tmt\New folder4\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.Billing.resources
+C:\Users\Pavithra\Desktop\bbak tmt\New folder4\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Battery_Qty.resources
+C:\Users\Pavithra\Desktop\bbak tmt\New folder4\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Other_Qty.resources
+C:\Users\Pavithra\Desktop\bbak tmt\New folder4\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Qty_Cycle.resources
+C:\Users\Pavithra\Desktop\bbak tmt\New folder4\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.Invoice.resources
+C:\Users\Pavithra\Desktop\bbak tmt\New folder4\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.battery_qty.resources
+C:\Users\Pavithra\Desktop\bbak tmt\New folder4\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.DHNAULA.resources
+C:\Users\Pavithra\Desktop\bbak tmt\New folder4\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.other_qty.resources
+C:\Users\Pavithra\Desktop\bbak tmt\New folder4\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.Properties.Resources.resources
+C:\Users\Pavithra\Desktop\bbak tmt\New folder4\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.Add_New_Customer.resources
+C:\Users\Pavithra\Desktop\bbak tmt\New folder4\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.qty.resources
+C:\Users\Pavithra\Desktop\bbak tmt\New folder4\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.qty_cycle.resources
+C:\Users\Pavithra\Desktop\bbak tmt\New folder4\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.Search_Customer.resources
+C:\Users\Pavithra\Desktop\bbak tmt\New folder4\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.frmSettings.resources
+C:\Users\Pavithra\Desktop\bbak tmt\New folder4\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Pavithra\Desktop\bbak tmt\New folder4\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Pavithra\Desktop\bbak tmt\New folder4\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.Billing_qty.resources
+C:\Users\Pavithra\Desktop\New folder4\TMT_2012_2012_12_02\TMT_2012\bin\Debug\TMT_2012.exe.config
+C:\Users\Pavithra\Desktop\New folder4\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.exe
+C:\Users\Pavithra\Desktop\New folder4\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.pdb
+C:\Users\Pavithra\Desktop\New folder4\TMT_2012_2012_12_02\TMT_2012\bin\Debug\TMT_2012.exe
+C:\Users\Pavithra\Desktop\New folder4\TMT_2012_2012_12_02\TMT_2012\bin\Debug\TMT_2012.pdb
+C:\Users\Pavithra\Desktop\New folder4\TMT_2012_2012_12_02\TMT_2012\bin\Debug\middle_access.dll
+C:\Users\Pavithra\Desktop\New folder4\TMT_2012_2012_12_02\TMT_2012\bin\Debug\data.dll
+C:\Users\Pavithra\Desktop\New folder4\TMT_2012_2012_12_02\TMT_2012\bin\Debug\middle_access.pdb
+C:\Users\Pavithra\Desktop\New folder4\TMT_2012_2012_12_02\TMT_2012\bin\Debug\data.pdb
+C:\Users\Pavithra\Desktop\New folder4\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Pavithra\Desktop\New folder4\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.AddMoterCycleTyre.resources
+C:\Users\Pavithra\Desktop\New folder4\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.AddNewStock.resources
+C:\Users\Pavithra\Desktop\New folder4\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.AdvancedSearch.resources
+C:\Users\Pavithra\Desktop\New folder4\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.batary.resources
+C:\Users\Pavithra\Desktop\New folder4\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.Billing.resources
+C:\Users\Pavithra\Desktop\New folder4\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Battery_Qty.resources
+C:\Users\Pavithra\Desktop\New folder4\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Other_Qty.resources
+C:\Users\Pavithra\Desktop\New folder4\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.Billing_qty.resources
+C:\Users\Pavithra\Desktop\New folder4\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Qty_Cycle.resources
+C:\Users\Pavithra\Desktop\New folder4\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.Invoice.resources
+C:\Users\Pavithra\Desktop\New folder4\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.battery_qty.resources
+C:\Users\Pavithra\Desktop\New folder4\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.DHNAULA.resources
+C:\Users\Pavithra\Desktop\New folder4\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.other_qty.resources
+C:\Users\Pavithra\Desktop\New folder4\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.Properties.Resources.resources
+C:\Users\Pavithra\Desktop\New folder4\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.Add_New_Customer.resources
+C:\Users\Pavithra\Desktop\New folder4\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.qty.resources
+C:\Users\Pavithra\Desktop\New folder4\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.qty_cycle.resources
+C:\Users\Pavithra\Desktop\New folder4\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.Search_Customer.resources
+C:\Users\Pavithra\Desktop\New folder4\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.frmSettings.resources
+C:\Users\Pavithra\Desktop\New folder4\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Pavithra\Desktop\New folder4\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Pavithra\Desktop\New folder4\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.SearchCustomerGrid.resources
+C:\Users\Pavithra\Desktop\New folder4\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.CustomerPayments.resources
+C:\Users\Pavithra\Desktop\New folder4\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.CurrentInvoicePrint.resources
+C:\Users\Boddi\Desktop\CRISTEL\TMT_2012_2012_12_02\TMT_2012\bin\Debug\TMT_2012.exe.config
+C:\Users\Boddi\Desktop\CRISTEL\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.exe
+C:\Users\Boddi\Desktop\CRISTEL\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.pdb
+C:\Users\Boddi\Desktop\CRISTEL\TMT_2012_2012_12_02\TMT_2012\bin\Debug\TMT_2012.exe
+C:\Users\Boddi\Desktop\CRISTEL\TMT_2012_2012_12_02\TMT_2012\bin\Debug\TMT_2012.pdb
+C:\Users\Boddi\Desktop\CRISTEL\TMT_2012_2012_12_02\TMT_2012\bin\Debug\middle_access.dll
+C:\Users\Boddi\Desktop\CRISTEL\TMT_2012_2012_12_02\TMT_2012\bin\Debug\data.dll
+C:\Users\Boddi\Desktop\CRISTEL\TMT_2012_2012_12_02\TMT_2012\bin\Debug\middle_access.pdb
+C:\Users\Boddi\Desktop\CRISTEL\TMT_2012_2012_12_02\TMT_2012\bin\Debug\data.pdb
+C:\Users\Boddi\Desktop\CRISTEL\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Boddi\Desktop\CRISTEL\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.AddMoterCycleTyre.resources
+C:\Users\Boddi\Desktop\CRISTEL\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.AddNewStock.resources
+C:\Users\Boddi\Desktop\CRISTEL\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.AdvancedSearch.resources
+C:\Users\Boddi\Desktop\CRISTEL\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.batary.resources
+C:\Users\Boddi\Desktop\CRISTEL\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.Billing.resources
+C:\Users\Boddi\Desktop\CRISTEL\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Battery_Qty.resources
+C:\Users\Boddi\Desktop\CRISTEL\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Other_Qty.resources
+C:\Users\Boddi\Desktop\CRISTEL\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.Billing_qty.resources
+C:\Users\Boddi\Desktop\CRISTEL\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Qty_Cycle.resources
+C:\Users\Boddi\Desktop\CRISTEL\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.CurrentInvoicePrint.resources
+C:\Users\Boddi\Desktop\CRISTEL\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.CustomerPayments.resources
+C:\Users\Boddi\Desktop\CRISTEL\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.Invoice.resources
+C:\Users\Boddi\Desktop\CRISTEL\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.battery_qty.resources
+C:\Users\Boddi\Desktop\CRISTEL\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.DHNAULA.resources
+C:\Users\Boddi\Desktop\CRISTEL\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.other_qty.resources
+C:\Users\Boddi\Desktop\CRISTEL\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.Properties.Resources.resources
+C:\Users\Boddi\Desktop\CRISTEL\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.Add_New_Customer.resources
+C:\Users\Boddi\Desktop\CRISTEL\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.qty.resources
+C:\Users\Boddi\Desktop\CRISTEL\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.qty_cycle.resources
+C:\Users\Boddi\Desktop\CRISTEL\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.SearchCustomerGrid.resources
+C:\Users\Boddi\Desktop\CRISTEL\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.Search_Customer.resources
+C:\Users\Boddi\Desktop\CRISTEL\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\TMT_2012.frmSettings.resources
+C:\Users\Boddi\Desktop\CRISTEL\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Boddi\Desktop\CRISTEL\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Boddi\Desktop\CRISTEL\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\RdlCompile.cache
+C:\Users\Boddi\Desktop\CRISTEL\TMT_2012_2012_12_02\TMT_2012\obj\x86\Debug\RdlCompile.compiled
+C:\Users\praveen\Desktop\Praveeen\core Project\TMT_2012_2012_02_01\TMT_2012\bin\Debug\TMT_2012.exe.config
+C:\Users\praveen\Desktop\Praveeen\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.exe
+C:\Users\praveen\Desktop\Praveeen\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.pdb
+C:\Users\praveen\Desktop\Praveeen\core Project\TMT_2012_2012_02_01\TMT_2012\bin\Debug\TMT_2012.exe
+C:\Users\praveen\Desktop\Praveeen\core Project\TMT_2012_2012_02_01\TMT_2012\bin\Debug\TMT_2012.pdb
+C:\Users\praveen\Desktop\Praveeen\core Project\TMT_2012_2012_02_01\TMT_2012\bin\Debug\middle_access.dll
+C:\Users\praveen\Desktop\Praveeen\core Project\TMT_2012_2012_02_01\TMT_2012\bin\Debug\data.dll
+C:\Users\praveen\Desktop\Praveeen\core Project\TMT_2012_2012_02_01\TMT_2012\bin\Debug\middle_access.pdb
+C:\Users\praveen\Desktop\Praveeen\core Project\TMT_2012_2012_02_01\TMT_2012\bin\Debug\data.pdb
+C:\Users\praveen\Desktop\Praveeen\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\praveen\Desktop\Praveeen\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.AddMoterCycleTyre.resources
+C:\Users\praveen\Desktop\Praveeen\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.AddNewStock.resources
+C:\Users\praveen\Desktop\Praveeen\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.batary.resources
+C:\Users\praveen\Desktop\Praveeen\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Billing.resources
+C:\Users\praveen\Desktop\Praveeen\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Battery_Qty.resources
+C:\Users\praveen\Desktop\Praveeen\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Other_Qty.resources
+C:\Users\praveen\Desktop\Praveeen\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Billing_qty.resources
+C:\Users\praveen\Desktop\Praveeen\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Qty_Cycle.resources
+C:\Users\praveen\Desktop\Praveeen\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.CurrentInvoicePrint.resources
+C:\Users\praveen\Desktop\Praveeen\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.CustomerPayments.resources
+C:\Users\praveen\Desktop\Praveeen\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Invoice.resources
+C:\Users\praveen\Desktop\Praveeen\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.battery_qty.resources
+C:\Users\praveen\Desktop\Praveeen\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.DHNAULA.resources
+C:\Users\praveen\Desktop\Praveeen\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.other_qty.resources
+C:\Users\praveen\Desktop\Praveeen\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Properties.Resources.resources
+C:\Users\praveen\Desktop\Praveeen\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Add_New_Customer.resources
+C:\Users\praveen\Desktop\Praveeen\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.qty.resources
+C:\Users\praveen\Desktop\Praveeen\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.qty_cycle.resources
+C:\Users\praveen\Desktop\Praveeen\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.SearchCustomerGrid.resources
+C:\Users\praveen\Desktop\Praveeen\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Search_Customer.resources
+C:\Users\praveen\Desktop\Praveeen\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.frmSettings.resources
+C:\Users\praveen\Desktop\Praveeen\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\praveen\Desktop\Praveeen\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\praveen\Desktop\Praveeen\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\RdlCompile.cache
+C:\Users\praveen\Desktop\Praveeen\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\RdlCompile.compiled
+C:\Users\praveen\Desktop\Praveeen\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.TyreSection.resources
+C:\Users\praveen\Desktop\Praveeen\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.BackUps.resources
+C:\Users\praveen\Desktop\Praveeen\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.CustomerSection.resources
+C:\Users\praveen\Desktop\Praveeen\core Project\TMT_2012_2012_02_01\TMT_2012\bin\Debug\printer.dll
+C:\Users\praveen\Desktop\Praveeen\core Project\TMT_2012_2012_02_01\TMT_2012\bin\Debug\printer.pdb
+C:\Users\praveen\Desktop\Praveeen\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Invoice_report.resources
+C:\Users\Boddi\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\bin\Debug\TMT_2012.exe.config
+C:\Users\Boddi\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.exe
+C:\Users\Boddi\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.pdb
+C:\Users\Boddi\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\bin\Debug\TMT_2012.exe
+C:\Users\Boddi\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\bin\Debug\TMT_2012.pdb
+C:\Users\Boddi\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\bin\Debug\middle_access.dll
+C:\Users\Boddi\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\bin\Debug\data.dll
+C:\Users\Boddi\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\bin\Debug\middle_access.pdb
+C:\Users\Boddi\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\bin\Debug\printer.pdb
+C:\Users\Boddi\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\bin\Debug\data.pdb
+C:\Users\Boddi\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Boddi\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.AddMoterCycleTyre.resources
+C:\Users\Boddi\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.AddNewStock.resources
+C:\Users\Boddi\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.BackUps.resources
+C:\Users\Boddi\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.CustomerSection.resources
+C:\Users\Boddi\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Invoice_report.resources
+C:\Users\Boddi\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.TyreSection.resources
+C:\Users\Boddi\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.batary.resources
+C:\Users\Boddi\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Billing.resources
+C:\Users\Boddi\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Battery_Qty.resources
+C:\Users\Boddi\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Other_Qty.resources
+C:\Users\Boddi\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Billing_qty.resources
+C:\Users\Boddi\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Qty_Cycle.resources
+C:\Users\Boddi\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.CurrentInvoicePrint.resources
+C:\Users\Boddi\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.CustomerPayments.resources
+C:\Users\Boddi\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Invoice.resources
+C:\Users\Boddi\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.battery_qty.resources
+C:\Users\Boddi\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.DHNAULA.resources
+C:\Users\Boddi\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.other_qty.resources
+C:\Users\Boddi\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Properties.Resources.resources
+C:\Users\Boddi\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Add_New_Customer.resources
+C:\Users\Boddi\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.qty.resources
+C:\Users\Boddi\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.qty_cycle.resources
+C:\Users\Boddi\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.SearchCustomerGrid.resources
+C:\Users\Boddi\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Search_Customer.resources
+C:\Users\Boddi\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.frmSettings.resources
+C:\Users\Boddi\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Boddi\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Boddi\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\RdlCompile.cache
+C:\Users\Boddi\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Pavithra\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\bin\Debug\TMT_2012.exe.config
+C:\Users\Pavithra\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.exe
+C:\Users\Pavithra\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.pdb
+C:\Users\Pavithra\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\bin\Debug\TMT_2012.exe
+C:\Users\Pavithra\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\bin\Debug\TMT_2012.pdb
+C:\Users\Pavithra\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\bin\Debug\middle_access.dll
+C:\Users\Pavithra\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\bin\Debug\data.dll
+C:\Users\Pavithra\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\bin\Debug\middle_access.pdb
+C:\Users\Pavithra\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\bin\Debug\data.pdb
+C:\Users\Pavithra\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Pavithra\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.AddMoterCycleTyre.resources
+C:\Users\Pavithra\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.AddNewStock.resources
+C:\Users\Pavithra\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.BackUps.resources
+C:\Users\Pavithra\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.CustomerSection.resources
+C:\Users\Pavithra\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Invoice_report.resources
+C:\Users\Pavithra\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.TyreSection.resources
+C:\Users\Pavithra\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.batary.resources
+C:\Users\Pavithra\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Billing.resources
+C:\Users\Pavithra\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Battery_Qty.resources
+C:\Users\Pavithra\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Other_Qty.resources
+C:\Users\Pavithra\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Billing_qty.resources
+C:\Users\Pavithra\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Qty_Cycle.resources
+C:\Users\Pavithra\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.CurrentInvoicePrint.resources
+C:\Users\Pavithra\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.CustomerPayments.resources
+C:\Users\Pavithra\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Invoice.resources
+C:\Users\Pavithra\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.battery_qty.resources
+C:\Users\Pavithra\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.DHNAULA.resources
+C:\Users\Pavithra\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.other_qty.resources
+C:\Users\Pavithra\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Properties.Resources.resources
+C:\Users\Pavithra\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Add_New_Customer.resources
+C:\Users\Pavithra\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.qty.resources
+C:\Users\Pavithra\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.qty_cycle.resources
+C:\Users\Pavithra\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.SearchCustomerGrid.resources
+C:\Users\Pavithra\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Search_Customer.resources
+C:\Users\Pavithra\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.frmSettings.resources
+C:\Users\Pavithra\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Pavithra\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Pavithra\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\RdlCompile.cache
+C:\Users\Pavithra\Desktop\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Pavithra\Desktop\TESTINGS\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\bin\Debug\TMT_2012.exe.config
+C:\Users\Pavithra\Desktop\TESTINGS\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.exe
+C:\Users\Pavithra\Desktop\TESTINGS\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.pdb
+C:\Users\Pavithra\Desktop\TESTINGS\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\bin\Debug\TMT_2012.exe
+C:\Users\Pavithra\Desktop\TESTINGS\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\bin\Debug\TMT_2012.pdb
+C:\Users\Pavithra\Desktop\TESTINGS\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\bin\Debug\middle_access.dll
+C:\Users\Pavithra\Desktop\TESTINGS\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\bin\Debug\data.dll
+C:\Users\Pavithra\Desktop\TESTINGS\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\bin\Debug\middle_access.pdb
+C:\Users\Pavithra\Desktop\TESTINGS\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\bin\Debug\data.pdb
+C:\Users\Pavithra\Desktop\TESTINGS\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Pavithra\Desktop\TESTINGS\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.AddMoterCycleTyre.resources
+C:\Users\Pavithra\Desktop\TESTINGS\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.AddNewStock.resources
+C:\Users\Pavithra\Desktop\TESTINGS\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.BackUps.resources
+C:\Users\Pavithra\Desktop\TESTINGS\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.CustomerSection.resources
+C:\Users\Pavithra\Desktop\TESTINGS\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Invoice_report.resources
+C:\Users\Pavithra\Desktop\TESTINGS\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.TyreSection.resources
+C:\Users\Pavithra\Desktop\TESTINGS\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.batary.resources
+C:\Users\Pavithra\Desktop\TESTINGS\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Billing.resources
+C:\Users\Pavithra\Desktop\TESTINGS\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Battery_Qty.resources
+C:\Users\Pavithra\Desktop\TESTINGS\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Other_Qty.resources
+C:\Users\Pavithra\Desktop\TESTINGS\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Billing_qty.resources
+C:\Users\Pavithra\Desktop\TESTINGS\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Qty_Cycle.resources
+C:\Users\Pavithra\Desktop\TESTINGS\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.CurrentInvoicePrint.resources
+C:\Users\Pavithra\Desktop\TESTINGS\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.CustomerPayments.resources
+C:\Users\Pavithra\Desktop\TESTINGS\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Invoice.resources
+C:\Users\Pavithra\Desktop\TESTINGS\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.battery_qty.resources
+C:\Users\Pavithra\Desktop\TESTINGS\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.DHNAULA.resources
+C:\Users\Pavithra\Desktop\TESTINGS\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.other_qty.resources
+C:\Users\Pavithra\Desktop\TESTINGS\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Properties.Resources.resources
+C:\Users\Pavithra\Desktop\TESTINGS\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Add_New_Customer.resources
+C:\Users\Pavithra\Desktop\TESTINGS\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.qty.resources
+C:\Users\Pavithra\Desktop\TESTINGS\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.qty_cycle.resources
+C:\Users\Pavithra\Desktop\TESTINGS\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.SearchCustomerGrid.resources
+C:\Users\Pavithra\Desktop\TESTINGS\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Search_Customer.resources
+C:\Users\Pavithra\Desktop\TESTINGS\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.frmSettings.resources
+C:\Users\Pavithra\Desktop\TESTINGS\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Pavithra\Desktop\TESTINGS\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Pavithra\Desktop\TESTINGS\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\RdlCompile.cache
+C:\Users\Pavithra\Desktop\TESTINGS\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\RdlCompile.compiled
+C:\Users\praveen\Downloads\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\bin\Debug\TMT_2012.exe.config
+C:\Users\praveen\Downloads\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.exe
+C:\Users\praveen\Downloads\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.pdb
+C:\Users\praveen\Downloads\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\bin\Debug\TMT_2012.exe
+C:\Users\praveen\Downloads\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\bin\Debug\TMT_2012.pdb
+C:\Users\praveen\Downloads\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\bin\Debug\middle_access.dll
+C:\Users\praveen\Downloads\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\bin\Debug\data.dll
+C:\Users\praveen\Downloads\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\bin\Debug\middle_access.pdb
+C:\Users\praveen\Downloads\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\bin\Debug\data.pdb
+C:\Users\praveen\Downloads\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\praveen\Downloads\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.AddMoterCycleTyre.resources
+C:\Users\praveen\Downloads\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.AddNewStock.resources
+C:\Users\praveen\Downloads\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.BackUps.resources
+C:\Users\praveen\Downloads\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.CustomerSection.resources
+C:\Users\praveen\Downloads\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Invoice_report.resources
+C:\Users\praveen\Downloads\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.TyreSection.resources
+C:\Users\praveen\Downloads\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.batary.resources
+C:\Users\praveen\Downloads\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Billing.resources
+C:\Users\praveen\Downloads\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Battery_Qty.resources
+C:\Users\praveen\Downloads\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Other_Qty.resources
+C:\Users\praveen\Downloads\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Billing_qty.resources
+C:\Users\praveen\Downloads\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Qty_Cycle.resources
+C:\Users\praveen\Downloads\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.CurrentInvoicePrint.resources
+C:\Users\praveen\Downloads\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.CustomerPayments.resources
+C:\Users\praveen\Downloads\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Invoice.resources
+C:\Users\praveen\Downloads\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.battery_qty.resources
+C:\Users\praveen\Downloads\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.DHNAULA.resources
+C:\Users\praveen\Downloads\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.other_qty.resources
+C:\Users\praveen\Downloads\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Properties.Resources.resources
+C:\Users\praveen\Downloads\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Add_New_Customer.resources
+C:\Users\praveen\Downloads\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.qty.resources
+C:\Users\praveen\Downloads\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.qty_cycle.resources
+C:\Users\praveen\Downloads\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.SearchCustomerGrid.resources
+C:\Users\praveen\Downloads\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Search_Customer.resources
+C:\Users\praveen\Downloads\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.frmSettings.resources
+C:\Users\praveen\Downloads\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\praveen\Downloads\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\praveen\Downloads\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\RdlCompile.cache
+C:\Users\praveen\Downloads\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\bin\Debug\TMT_2012.exe.config
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.exe
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.pdb
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\bin\Debug\TMT_2012.exe
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\bin\Debug\TMT_2012.pdb
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\bin\Debug\middle_access.dll
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\bin\Debug\data.dll
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\bin\Debug\middle_access.pdb
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\bin\Debug\data.pdb
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.AddMoterCycleTyre.resources
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.AddNewStock.resources
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.BackUps.resources
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.CustomerSection.resources
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Invoice_report.resources
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.TyreSection.resources
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.batary.resources
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Billing.resources
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Battery_Qty.resources
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Other_Qty.resources
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Billing_qty.resources
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Qty_Cycle.resources
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.CurrentInvoicePrint.resources
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.CustomerPayments.resources
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Invoice.resources
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.battery_qty.resources
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.DHNAULA.resources
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.other_qty.resources
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Properties.Resources.resources
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Add_New_Customer.resources
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.qty.resources
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.qty_cycle.resources
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.SearchCustomerGrid.resources
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Search_Customer.resources
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.frmSettings.resources
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\RdlCompile.cache
+C:\Users\Boddi\Desktop\CRISTEL\Working Now\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\bin\Debug\TMT_2012.exe.config
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.exe
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.pdb
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.AddMoterCycleTyre.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.AddNewStock.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.BackUps.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.CustomerSection.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Invoice_report.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.TyreSection.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.batary.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Billing.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Battery_Qty.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Other_Qty.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Billing_qty.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Qty_Cycle.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.CurrentInvoicePrint.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.CustomerPayments.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Invoice.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.battery_qty.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.DHNAULA.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.other_qty.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Properties.Resources.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Add_New_Customer.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.qty.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.qty_cycle.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.SearchCustomerGrid.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.Search_Customer.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.frmSettings.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\RdlCompile.cache
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\bin\Debug\TMT_2012.exe
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\bin\Debug\TMT_2012.pdb
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\bin\Debug\middle_access.dll
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\bin\Debug\data.dll
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\bin\Debug\middle_access.pdb
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\bin\Debug\data.pdb
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.managePayments.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.paymentsMenu.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_02_01\TMT_2012\obj\x86\Debug\TMT_2012.AddPayments.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\bin\Debug\TMT_2012.exe.config
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.exe
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.pdb
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\bin\Debug\TMT_2012.exe
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\bin\Debug\TMT_2012.pdb
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\bin\Debug\middle_access.dll
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\bin\Debug\data.dll
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\bin\Debug\middle_access.pdb
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\bin\Debug\data.pdb
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.AddMoterCycleTyre.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.AddNewStock.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.AddPayments.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.BackUps.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.CustomerSection.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.Invoice_report.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.managePayments.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.paymentsMenu.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.TyreSection.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.batary.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.Billing.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Battery_Qty.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Other_Qty.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.Billing_qty.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Qty_Cycle.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.CurrentInvoicePrint.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.CustomerPayments.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.Invoice.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.battery_qty.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.DHNAULA.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.other_qty.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.Properties.Resources.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.Add_New_Customer.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.qty.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.qty_cycle.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.SearchCustomerGrid.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.Search_Customer.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.frmSettings.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\RdlCompile.cache
+C:\Users\Pavithra\Desktop\TESTINGS\integration\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Pavithra\Desktop\TESTINGS\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\bin\Debug\TMT_2012.exe.config
+C:\Users\Pavithra\Desktop\TESTINGS\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.exe
+C:\Users\Pavithra\Desktop\TESTINGS\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.pdb
+C:\Users\Pavithra\Desktop\TESTINGS\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\bin\Debug\TMT_2012.exe
+C:\Users\Pavithra\Desktop\TESTINGS\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\bin\Debug\TMT_2012.pdb
+C:\Users\Pavithra\Desktop\TESTINGS\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\bin\Debug\middle_access.dll
+C:\Users\Pavithra\Desktop\TESTINGS\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\bin\Debug\printer.dll
+C:\Users\Pavithra\Desktop\TESTINGS\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\bin\Debug\data.dll
+C:\Users\Pavithra\Desktop\TESTINGS\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\bin\Debug\middle_access.pdb
+C:\Users\Pavithra\Desktop\TESTINGS\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\bin\Debug\data.pdb
+C:\Users\Pavithra\Desktop\TESTINGS\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Pavithra\Desktop\TESTINGS\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.AddMoterCycleTyre.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.AddNewStock.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.AddPayments.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.BackUps.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.CustomerSection.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.Invoice_report.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.managePayments.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.paymentsMenu.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.TyreSection.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.batary.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.Billing.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Battery_Qty.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Other_Qty.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.Billing_qty.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Qty_Cycle.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.CurrentInvoicePrint.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.CustomerPayments.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.Invoice.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.battery_qty.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.DHNAULA.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.other_qty.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.Properties.Resources.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.Add_New_Customer.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.qty.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.qty_cycle.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.SearchCustomerGrid.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.Search_Customer.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.frmSettings.resources
+C:\Users\Pavithra\Desktop\TESTINGS\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Pavithra\Desktop\TESTINGS\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Pavithra\Desktop\TESTINGS\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\RdlCompile.cache
+C:\Users\Pavithra\Desktop\TESTINGS\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Boddi\Desktop\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\bin\Debug\TMT_2012.exe.config
+C:\Users\Boddi\Desktop\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.exe
+C:\Users\Boddi\Desktop\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.pdb
+C:\Users\Boddi\Desktop\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\bin\Debug\TMT_2012.exe
+C:\Users\Boddi\Desktop\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\bin\Debug\TMT_2012.pdb
+C:\Users\Boddi\Desktop\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\bin\Debug\middle_access.dll
+C:\Users\Boddi\Desktop\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\bin\Debug\data.dll
+C:\Users\Boddi\Desktop\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\bin\Debug\middle_access.pdb
+C:\Users\Boddi\Desktop\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\bin\Debug\data.pdb
+C:\Users\Boddi\Desktop\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Boddi\Desktop\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.AddMoterCycleTyre.resources
+C:\Users\Boddi\Desktop\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.AddNewStock.resources
+C:\Users\Boddi\Desktop\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.AddPayments.resources
+C:\Users\Boddi\Desktop\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.BackUps.resources
+C:\Users\Boddi\Desktop\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.CustomerSection.resources
+C:\Users\Boddi\Desktop\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.Invoice_report.resources
+C:\Users\Boddi\Desktop\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.managePayments.resources
+C:\Users\Boddi\Desktop\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.paymentsMenu.resources
+C:\Users\Boddi\Desktop\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.TyreSection.resources
+C:\Users\Boddi\Desktop\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.batary.resources
+C:\Users\Boddi\Desktop\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.Billing.resources
+C:\Users\Boddi\Desktop\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Battery_Qty.resources
+C:\Users\Boddi\Desktop\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Other_Qty.resources
+C:\Users\Boddi\Desktop\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.Billing_qty.resources
+C:\Users\Boddi\Desktop\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Qty_Cycle.resources
+C:\Users\Boddi\Desktop\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.CurrentInvoicePrint.resources
+C:\Users\Boddi\Desktop\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.CustomerPayments.resources
+C:\Users\Boddi\Desktop\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.Invoice.resources
+C:\Users\Boddi\Desktop\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.battery_qty.resources
+C:\Users\Boddi\Desktop\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.DHNAULA.resources
+C:\Users\Boddi\Desktop\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.other_qty.resources
+C:\Users\Boddi\Desktop\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.Properties.Resources.resources
+C:\Users\Boddi\Desktop\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.Add_New_Customer.resources
+C:\Users\Boddi\Desktop\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.qty.resources
+C:\Users\Boddi\Desktop\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.qty_cycle.resources
+C:\Users\Boddi\Desktop\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.SearchCustomerGrid.resources
+C:\Users\Boddi\Desktop\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.Search_Customer.resources
+C:\Users\Boddi\Desktop\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.frmSettings.resources
+C:\Users\Boddi\Desktop\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Boddi\Desktop\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Boddi\Desktop\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\RdlCompile.cache
+C:\Users\Boddi\Desktop\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Boddi\Desktop\integration - Copy (2)\2012.03.31\test 1.0 - Copy\2012.02.17\core Project\TMT_2012_2012_04_08\TMT_2012\bin\Debug\printer.dll
+F:\system\TMT_2012_2012_04_08\TMT_2012\bin\Debug\TMT_2012.exe.config
+F:\system\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.exe
+F:\system\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.pdb
+F:\system\TMT_2012_2012_04_08\TMT_2012\bin\Debug\TMT_2012.exe
+F:\system\TMT_2012_2012_04_08\TMT_2012\bin\Debug\TMT_2012.pdb
+F:\system\TMT_2012_2012_04_08\TMT_2012\bin\Debug\middle_access.dll
+F:\system\TMT_2012_2012_04_08\TMT_2012\bin\Debug\data.dll
+F:\system\TMT_2012_2012_04_08\TMT_2012\bin\Debug\middle_access.pdb
+F:\system\TMT_2012_2012_04_08\TMT_2012\bin\Debug\data.pdb
+F:\system\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\system\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.AddMoterCycleTyre.resources
+F:\system\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.AddNewStock.resources
+F:\system\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.AddPayments.resources
+F:\system\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.BackUps.resources
+F:\system\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.CustomerSection.resources
+F:\system\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.Invoice_report.resources
+F:\system\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.managePayments.resources
+F:\system\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.paymentsMenu.resources
+F:\system\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.TyreSection.resources
+F:\system\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.batary.resources
+F:\system\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.Billing.resources
+F:\system\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Battery_Qty.resources
+F:\system\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Other_Qty.resources
+F:\system\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.Billing_qty.resources
+F:\system\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Qty_Cycle.resources
+F:\system\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.CurrentInvoicePrint.resources
+F:\system\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.CustomerPayments.resources
+F:\system\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.Invoice.resources
+F:\system\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.battery_qty.resources
+F:\system\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.DHNAULA.resources
+F:\system\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.other_qty.resources
+F:\system\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.Properties.Resources.resources
+F:\system\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.Add_New_Customer.resources
+F:\system\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.qty.resources
+F:\system\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.qty_cycle.resources
+F:\system\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.SearchCustomerGrid.resources
+F:\system\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.Search_Customer.resources
+F:\system\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.frmSettings.resources
+F:\system\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\system\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\system\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\RdlCompile.cache
+F:\system\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\RdlCompile.compiled
+F:\system\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.Tube.resources
+F:\system\TMT_2012_2012_04_08\TMT_2012\obj\x86\Debug\TMT_2012.tube_qty.resources
+F:\system\TMT_2012_2012_09_23\TMT_2012\bin\Debug\TMT_2012.exe.config
+F:\system\TMT_2012_2012_09_23\TMT_2012\bin\Debug\TMT_2012.exe
+F:\system\TMT_2012_2012_09_23\TMT_2012\bin\Debug\TMT_2012.pdb
+F:\system\TMT_2012_2012_09_23\TMT_2012\bin\Debug\middle_access.dll
+F:\system\TMT_2012_2012_09_23\TMT_2012\bin\Debug\data.dll
+F:\system\TMT_2012_2012_09_23\TMT_2012\bin\Debug\middle_access.pdb
+F:\system\TMT_2012_2012_09_23\TMT_2012\bin\Debug\data.pdb
+F:\system\TMT_2012_2012_09_23\TMT_2012\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\system\TMT_2012_2012_09_23\TMT_2012\obj\x86\Debug\TMT_2012.AddMoterCycleTyre.resources
+F:\system\TMT_2012_2012_09_23\TMT_2012\obj\x86\Debug\TMT_2012.AddNewStock.resources
+F:\system\TMT_2012_2012_09_23\TMT_2012\obj\x86\Debug\TMT_2012.AddPayments.resources
+F:\system\TMT_2012_2012_09_23\TMT_2012\obj\x86\Debug\TMT_2012.BackUps.resources
+F:\system\TMT_2012_2012_09_23\TMT_2012\obj\x86\Debug\TMT_2012.CustomerSection.resources
+F:\system\TMT_2012_2012_09_23\TMT_2012\obj\x86\Debug\TMT_2012.Invoice_report.resources
+F:\system\TMT_2012_2012_09_23\TMT_2012\obj\x86\Debug\TMT_2012.managePayments.resources
+F:\system\TMT_2012_2012_09_23\TMT_2012\obj\x86\Debug\TMT_2012.paymentsMenu.resources
+F:\system\TMT_2012_2012_09_23\TMT_2012\obj\x86\Debug\TMT_2012.Tube.resources
+F:\system\TMT_2012_2012_09_23\TMT_2012\obj\x86\Debug\TMT_2012.tube_qty.resources
+F:\system\TMT_2012_2012_09_23\TMT_2012\obj\x86\Debug\TMT_2012.TyreSection.resources
+F:\system\TMT_2012_2012_09_23\TMT_2012\obj\x86\Debug\TMT_2012.batary.resources
+F:\system\TMT_2012_2012_09_23\TMT_2012\obj\x86\Debug\TMT_2012.Billing.resources
+F:\system\TMT_2012_2012_09_23\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Battery_Qty.resources
+F:\system\TMT_2012_2012_09_23\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Other_Qty.resources
+F:\system\TMT_2012_2012_09_23\TMT_2012\obj\x86\Debug\TMT_2012.Billing_qty.resources
+F:\system\TMT_2012_2012_09_23\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Qty_Cycle.resources
+F:\system\TMT_2012_2012_09_23\TMT_2012\obj\x86\Debug\TMT_2012.CurrentInvoicePrint.resources
+F:\system\TMT_2012_2012_09_23\TMT_2012\obj\x86\Debug\TMT_2012.CustomerPayments.resources
+F:\system\TMT_2012_2012_09_23\TMT_2012\obj\x86\Debug\TMT_2012.Invoice.resources
+F:\system\TMT_2012_2012_09_23\TMT_2012\obj\x86\Debug\TMT_2012.battery_qty.resources
+F:\system\TMT_2012_2012_09_23\TMT_2012\obj\x86\Debug\TMT_2012.DHNAULA.resources
+F:\system\TMT_2012_2012_09_23\TMT_2012\obj\x86\Debug\TMT_2012.other_qty.resources
+F:\system\TMT_2012_2012_09_23\TMT_2012\obj\x86\Debug\TMT_2012.Properties.Resources.resources
+F:\system\TMT_2012_2012_09_23\TMT_2012\obj\x86\Debug\TMT_2012.Add_New_Customer.resources
+F:\system\TMT_2012_2012_09_23\TMT_2012\obj\x86\Debug\TMT_2012.qty.resources
+F:\system\TMT_2012_2012_09_23\TMT_2012\obj\x86\Debug\TMT_2012.qty_cycle.resources
+F:\system\TMT_2012_2012_09_23\TMT_2012\obj\x86\Debug\TMT_2012.SearchCustomerGrid.resources
+F:\system\TMT_2012_2012_09_23\TMT_2012\obj\x86\Debug\TMT_2012.Search_Customer.resources
+F:\system\TMT_2012_2012_09_23\TMT_2012\obj\x86\Debug\TMT_2012.frmSettings.resources
+F:\system\TMT_2012_2012_09_23\TMT_2012\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\system\TMT_2012_2012_09_23\TMT_2012\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\system\TMT_2012_2012_09_23\TMT_2012\obj\x86\Debug\RdlCompile.cache
+F:\system\TMT_2012_2012_09_23\TMT_2012\obj\x86\Debug\RdlCompile.compiled
+F:\system\TMT_2012_2012_09_23\TMT_2012\obj\x86\Debug\TMT_2012.exe
+F:\system\TMT_2012_2012_09_23\TMT_2012\obj\x86\Debug\TMT_2012.pdb
+F:\system\TMT_2012_2012_09_24\TMT_2012\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\system\TMT_2012_2012_09_24\TMT_2012\obj\x86\Debug\TMT_2012.AddMoterCycleTyre.resources
+F:\system\TMT_2012_2012_09_24\TMT_2012\obj\x86\Debug\TMT_2012.AddNewStock.resources
+F:\system\TMT_2012_2012_09_24\TMT_2012\obj\x86\Debug\TMT_2012.AddPayments.resources
+F:\system\TMT_2012_2012_09_24\TMT_2012\obj\x86\Debug\TMT_2012.BackUps.resources
+F:\system\TMT_2012_2012_09_24\TMT_2012\obj\x86\Debug\TMT_2012.Barcode.resources
+F:\system\TMT_2012_2012_09_24\TMT_2012\obj\x86\Debug\TMT_2012.BarcodeReport.resources
+F:\system\TMT_2012_2012_09_24\TMT_2012\obj\x86\Debug\TMT_2012.CustomerSection.resources
+F:\system\TMT_2012_2012_09_24\TMT_2012\obj\x86\Debug\TMT_2012.Invoice_report.resources
+F:\system\TMT_2012_2012_09_24\TMT_2012\obj\x86\Debug\TMT_2012.managePayments.resources
+F:\system\TMT_2012_2012_09_24\TMT_2012\obj\x86\Debug\TMT_2012.paymentsMenu.resources
+F:\system\TMT_2012_2012_09_24\TMT_2012\obj\x86\Debug\TMT_2012.Tube.resources
+F:\system\TMT_2012_2012_09_24\TMT_2012\obj\x86\Debug\TMT_2012.tube_qty.resources
+F:\system\TMT_2012_2012_09_24\TMT_2012\obj\x86\Debug\TMT_2012.TyreSection.resources
+F:\system\TMT_2012_2012_09_24\TMT_2012\obj\x86\Debug\TMT_2012.batary.resources
+F:\system\TMT_2012_2012_09_24\TMT_2012\obj\x86\Debug\TMT_2012.Billing.resources
+F:\system\TMT_2012_2012_09_24\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Battery_Qty.resources
+F:\system\TMT_2012_2012_09_24\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Other_Qty.resources
+F:\system\TMT_2012_2012_09_24\TMT_2012\obj\x86\Debug\TMT_2012.Billing_qty.resources
+F:\system\TMT_2012_2012_09_24\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Qty_Cycle.resources
+F:\system\TMT_2012_2012_09_24\TMT_2012\obj\x86\Debug\TMT_2012.CurrentInvoicePrint.resources
+F:\system\TMT_2012_2012_09_24\TMT_2012\obj\x86\Debug\TMT_2012.CustomerPayments.resources
+F:\system\TMT_2012_2012_09_24\TMT_2012\obj\x86\Debug\TMT_2012.Invoice.resources
+F:\system\TMT_2012_2012_09_24\TMT_2012\obj\x86\Debug\TMT_2012.battery_qty.resources
+F:\system\TMT_2012_2012_09_24\TMT_2012\obj\x86\Debug\TMT_2012.DHNAULA.resources
+F:\system\TMT_2012_2012_09_24\TMT_2012\obj\x86\Debug\TMT_2012.other_qty.resources
+F:\system\TMT_2012_2012_09_24\TMT_2012\obj\x86\Debug\TMT_2012.Properties.Resources.resources
+F:\system\TMT_2012_2012_09_24\TMT_2012\obj\x86\Debug\TMT_2012.Add_New_Customer.resources
+F:\system\TMT_2012_2012_09_24\TMT_2012\obj\x86\Debug\TMT_2012.qty.resources
+F:\system\TMT_2012_2012_09_24\TMT_2012\obj\x86\Debug\TMT_2012.qty_cycle.resources
+F:\system\TMT_2012_2012_09_24\TMT_2012\obj\x86\Debug\TMT_2012.SearchCustomerGrid.resources
+F:\system\TMT_2012_2012_09_24\TMT_2012\obj\x86\Debug\TMT_2012.Search_Customer.resources
+F:\system\TMT_2012_2012_09_24\TMT_2012\obj\x86\Debug\TMT_2012.frmSettings.resources
+F:\system\TMT_2012_2012_09_24\TMT_2012\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\system\TMT_2012_2012_09_24\TMT_2012\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\system\TMT_2012_2012_09_24\TMT_2012\obj\x86\Debug\RdlCompile.cache
+F:\system\TMT_2012_2012_09_24\TMT_2012\obj\x86\Debug\RdlCompile.compiled
+F:\system\TMT_2012_2012_09_24\TMT_2012\bin\Debug\TMT_2012.exe.config
+F:\system\TMT_2012_2012_09_24\TMT_2012\bin\Debug\TMT_2012.exe
+F:\system\TMT_2012_2012_09_24\TMT_2012\bin\Debug\TMT_2012.pdb
+F:\system\TMT_2012_2012_09_24\TMT_2012\bin\Debug\middle_access.dll
+F:\system\TMT_2012_2012_09_24\TMT_2012\bin\Debug\data.dll
+F:\system\TMT_2012_2012_09_24\TMT_2012\bin\Debug\middle_access.pdb
+F:\system\TMT_2012_2012_09_24\TMT_2012\bin\Debug\data.pdb
+F:\system\TMT_2012_2012_09_24\TMT_2012\obj\x86\Debug\TMT_2012.exe
+F:\system\TMT_2012_2012_09_24\TMT_2012\obj\x86\Debug\TMT_2012.pdb
+F:\system\TMT_2012_2012_09_25\TMT_2012\bin\Debug\TMT_2012.exe.config
+F:\system\TMT_2012_2012_09_25\TMT_2012\bin\Debug\TMT_2012.exe
+F:\system\TMT_2012_2012_09_25\TMT_2012\bin\Debug\TMT_2012.pdb
+F:\system\TMT_2012_2012_09_25\TMT_2012\bin\Debug\middle_access.dll
+F:\system\TMT_2012_2012_09_25\TMT_2012\bin\Debug\data.dll
+F:\system\TMT_2012_2012_09_25\TMT_2012\bin\Debug\middle_access.pdb
+F:\system\TMT_2012_2012_09_25\TMT_2012\bin\Debug\data.pdb
+F:\system\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\system\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.AddMoterCycleTyre.resources
+F:\system\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.AddNewStock.resources
+F:\system\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.AddPayments.resources
+F:\system\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.BackUps.resources
+F:\system\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.Barcode.resources
+F:\system\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.BarcodeReport.resources
+F:\system\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.CustomerSection.resources
+F:\system\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.Invoice_report.resources
+F:\system\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.managePayments.resources
+F:\system\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.paymentsMenu.resources
+F:\system\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.Tube.resources
+F:\system\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.tube_qty.resources
+F:\system\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.TyreSection.resources
+F:\system\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.batary.resources
+F:\system\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.Billing.resources
+F:\system\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Battery_Qty.resources
+F:\system\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Other_Qty.resources
+F:\system\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.Billing_qty.resources
+F:\system\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Qty_Cycle.resources
+F:\system\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.CurrentInvoicePrint.resources
+F:\system\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.CustomerPayments.resources
+F:\system\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.Invoice.resources
+F:\system\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.battery_qty.resources
+F:\system\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.DHNAULA.resources
+F:\system\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.other_qty.resources
+F:\system\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.Properties.Resources.resources
+F:\system\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.Add_New_Customer.resources
+F:\system\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.qty.resources
+F:\system\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.qty_cycle.resources
+F:\system\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.SearchCustomerGrid.resources
+F:\system\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.Search_Customer.resources
+F:\system\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.frmSettings.resources
+F:\system\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\system\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\system\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\RdlCompile.cache
+F:\system\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\RdlCompile.compiled
+F:\system\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.exe
+F:\system\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.pdb
+F:\system\TMT_2012_2012_09_25\TMT_2012\bin\Debug\TMT_2012.XML
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\bin\Debug\TMT_2012.exe.config
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\bin\Debug\TMT_2012.exe
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\bin\Debug\TMT_2012.pdb
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\bin\Debug\middle_access.dll
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\bin\Debug\data.dll
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\bin\Debug\middle_access.pdb
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\bin\Debug\data.pdb
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.AddMoterCycleTyre.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.AddNewStock.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.AddPayments.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.BackUps.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.Barcode.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.BarcodeReport.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.CustomerSection.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.Invoice_report.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.Login.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.managePayments.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.paymentsMenu.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.Payments_Full_Report.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.Payments_Report.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.Tube.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.tube_qty.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.TyreSection.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.batary.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.Billing.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Battery_Qty.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Other_Qty.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.Billing_qty.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Qty_Cycle.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.CurrentInvoicePrint.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.CustomerPayments.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.Invoice.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.battery_qty.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.DHNAULA.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.other_qty.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.Properties.Resources.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.Add_New_Customer.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.qty.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.qty_cycle.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.SearchCustomerGrid.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.Search_Customer.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.frmSettings.resources
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\RdlCompile.cache
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\RdlCompile.compiled
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.exe
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.pdb
+F:\system\2013.03.25 - current\New folder\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.Payments_Full_Credit_Report.resources
+C:\Users\Buddhika\Desktop\TMT_6.3\TMT_2012_2012_09_25\TMT_2012\bin\Debug\TMT_2012.exe.config
+C:\Users\Buddhika\Desktop\TMT_6.3\TMT_2012_2012_09_25\TMT_2012\bin\Debug\TMT_2012.XML
+C:\Users\Buddhika\Desktop\TMT_6.3\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.exe
+C:\Users\Buddhika\Desktop\TMT_6.3\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.pdb
+C:\Users\Buddhika\Desktop\TMT_6.3\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Buddhika\Desktop\TMT_6.3\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.AddMoterCycleTyre.resources
+C:\Users\Buddhika\Desktop\TMT_6.3\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.AddNewStock.resources
+C:\Users\Buddhika\Desktop\TMT_6.3\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.AddPayments.resources
+C:\Users\Buddhika\Desktop\TMT_6.3\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.BackUps.resources
+C:\Users\Buddhika\Desktop\TMT_6.3\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.Barcode.resources
+C:\Users\Buddhika\Desktop\TMT_6.3\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.BarcodeReport.resources
+C:\Users\Buddhika\Desktop\TMT_6.3\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.CustomerSection.resources
+C:\Users\Buddhika\Desktop\TMT_6.3\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.Invoice_report.resources
+C:\Users\Buddhika\Desktop\TMT_6.3\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.Login.resources
+C:\Users\Buddhika\Desktop\TMT_6.3\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.managePayments.resources
+C:\Users\Buddhika\Desktop\TMT_6.3\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.paymentsMenu.resources
+C:\Users\Buddhika\Desktop\TMT_6.3\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.Payments_Full_Credit_Report.resources
+C:\Users\Buddhika\Desktop\TMT_6.3\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.Payments_Full_Report.resources
+C:\Users\Buddhika\Desktop\TMT_6.3\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.Payments_Report.resources
+C:\Users\Buddhika\Desktop\TMT_6.3\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.Tube.resources
+C:\Users\Buddhika\Desktop\TMT_6.3\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.tube_qty.resources
+C:\Users\Buddhika\Desktop\TMT_6.3\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.TyreSection.resources
+C:\Users\Buddhika\Desktop\TMT_6.3\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.batary.resources
+C:\Users\Buddhika\Desktop\TMT_6.3\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.Billing.resources
+C:\Users\Buddhika\Desktop\TMT_6.3\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Battery_Qty.resources
+C:\Users\Buddhika\Desktop\TMT_6.3\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Other_Qty.resources
+C:\Users\Buddhika\Desktop\TMT_6.3\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.Billing_qty.resources
+C:\Users\Buddhika\Desktop\TMT_6.3\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Qty_Cycle.resources
+C:\Users\Buddhika\Desktop\TMT_6.3\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.CurrentInvoicePrint.resources
+C:\Users\Buddhika\Desktop\TMT_6.3\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.CustomerPayments.resources
+C:\Users\Buddhika\Desktop\TMT_6.3\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.Invoice.resources
+C:\Users\Buddhika\Desktop\TMT_6.3\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.battery_qty.resources
+C:\Users\Buddhika\Desktop\TMT_6.3\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.DHNAULA.resources
+C:\Users\Buddhika\Desktop\TMT_6.3\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.other_qty.resources
+C:\Users\Buddhika\Desktop\TMT_6.3\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.Properties.Resources.resources
+C:\Users\Buddhika\Desktop\TMT_6.3\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.Add_New_Customer.resources
+C:\Users\Buddhika\Desktop\TMT_6.3\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.qty.resources
+C:\Users\Buddhika\Desktop\TMT_6.3\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.qty_cycle.resources
+C:\Users\Buddhika\Desktop\TMT_6.3\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.SearchCustomerGrid.resources
+C:\Users\Buddhika\Desktop\TMT_6.3\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.Search_Customer.resources
+C:\Users\Buddhika\Desktop\TMT_6.3\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.frmSettings.resources
+C:\Users\Buddhika\Desktop\TMT_6.3\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Buddhika\Desktop\TMT_6.3\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Buddhika\Desktop\TMT_6.3\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\RdlCompile.cache
+C:\Users\Buddhika\Desktop\TMT_6.3\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Buddhika\Desktop\TMT_6.3\TMT_2012_2012_09_25\TMT_2012\bin\Debug\TMT_2012.exe
+C:\Users\Buddhika\Desktop\TMT_6.3\TMT_2012_2012_09_25\TMT_2012\bin\Debug\TMT_2012.pdb
+C:\Users\Buddhika\Desktop\TMT_6.3\TMT_2012_2012_09_25\TMT_2012\bin\Debug\middle_access.dll
+C:\Users\Buddhika\Desktop\TMT_6.3\TMT_2012_2012_09_25\TMT_2012\bin\Debug\data.dll
+C:\Users\Buddhika\Desktop\TMT_6.3\TMT_2012_2012_09_25\TMT_2012\bin\Debug\middle_access.pdb
+C:\Users\Buddhika\Desktop\TMT_6.3\TMT_2012_2012_09_25\TMT_2012\bin\Debug\data.pdb
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.AddMoterCycleTyre.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.AddNewStock.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.AddPayments.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.BackUps.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.Barcode.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.BarcodeReport.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.CustomerSection.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.Invoice_report.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.Login.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.managePayments.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.paymentsMenu.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.Payments_Full_Credit_Report.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.Payments_Full_Report.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.Payments_Report.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.Tube.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.tube_qty.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.TyreSection.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.batary.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.Billing.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Battery_Qty.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Other_Qty.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.Billing_qty.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.Billing_Qty_Cycle.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.CurrentInvoicePrint.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.CustomerPayments.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.Invoice.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.battery_qty.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.DHNAULA.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.other_qty.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.Properties.Resources.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.Add_New_Customer.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.qty.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.qty_cycle.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.SearchCustomerGrid.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.Search_Customer.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\TMT_2012.frmSettings.resources
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\RdlCompile.cache
+C:\Users\Buddhika\Desktop\TMT_6.3 Refactoring\TMT_2012_2012_09_25\TMT_2012\obj\x86\Debug\RdlCompile.compiled

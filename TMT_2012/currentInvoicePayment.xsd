@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="currentInvoicePayment" targetNamespace="http://tempuri.org/currentInvoicePayment.xsd" xmlns:mstns="http://tempuri.org/currentInvoicePayment.xsd" xmlns="http://tempuri.org/currentInvoicePayment.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="currentInvoicePayment" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="currentInvoicePayment" msprop:Generator_UserDSName="currentInvoicePayment">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_RowClassName="DataTable1Row">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="invoiceNo" msdata:Caption="invoice_no" msprop:Generator_ColumnVarNameInTable="columninvoiceNo" msprop:Generator_ColumnPropNameInRow="invoiceNo" msprop:Generator_ColumnPropNameInTable="invoiceNoColumn" msprop:Generator_UserColumnName="invoiceNo" type="xs:string" minOccurs="0" />
+              <xs:element name="invoiceDate" msdata:Caption="invoice_date" msprop:Generator_ColumnVarNameInTable="columninvoiceDate" msprop:Generator_ColumnPropNameInRow="invoiceDate" msprop:Generator_ColumnPropNameInTable="invoiceDateColumn" msprop:Generator_UserColumnName="invoiceDate" type="xs:string" minOccurs="0" />
+              <xs:element name="invoiceLinesText" msdata:Caption="customer_name" msprop:Generator_ColumnVarNameInTable="columninvoiceLinesText" msprop:Generator_ColumnPropNameInRow="invoiceLinesText" msprop:Generator_ColumnPropNameInTable="invoiceLinesTextColumn" msprop:Generator_UserColumnName="invoiceLinesText" type="xs:string" minOccurs="0" />
+              <xs:element name="paymentMethodTxt" msprop:Generator_ColumnVarNameInTable="columnpaymentMethodTxt" msprop:Generator_ColumnPropNameInRow="paymentMethodTxt" msprop:Generator_ColumnPropNameInTable="paymentMethodTxtColumn" msprop:Generator_UserColumnName="paymentMethodTxt" type="xs:string" minOccurs="0" />
+              <xs:element name="enteredAmount" msprop:Generator_ColumnVarNameInTable="columnenteredAmount" msprop:Generator_ColumnPropNameInRow="enteredAmount" msprop:Generator_ColumnPropNameInTable="enteredAmountColumn" msprop:Generator_UserColumnName="enteredAmount" type="xs:double" minOccurs="0" />
+              <xs:element name="customerName" msprop:Generator_ColumnVarNameInTable="columncustomerName" msprop:Generator_ColumnPropNameInRow="customerName" msprop:Generator_ColumnPropNameInTable="customerNameColumn" msprop:Generator_UserColumnName="customerName" type="xs:string" minOccurs="0" />
+              <xs:element name="total" msprop:Generator_ColumnVarNameInTable="columntotal" msprop:Generator_ColumnPropNameInRow="total" msprop:Generator_ColumnPropNameInTable="totalColumn" msprop:Generator_UserColumnName="total" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1">
+      <xs:selector xpath=".//mstns:DataTable1" />
+      <xs:field xpath="mstns:invoiceNo" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>
